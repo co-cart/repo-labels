@@ -1,13 +1,13 @@
 [
     {
         "name": "category: accessibility",
-        "color": "5804ea",
+        "color": "9d8403",
         "aliases": [],
         "description": "The issue/PR is related to accessibility."
     },
     {
         "name": "category: backend",
-        "color": "5804ea",
+        "color": "9d8403",
         "aliases": [
             "Admin"
         ],
@@ -15,7 +15,7 @@
     },
     {
         "name": "category: compatibility",
-        "color": "5804ea",
+        "color": "9d8403",
         "aliases": [
             "compatibility"
         ],
@@ -23,7 +23,7 @@
     },
     {
         "name": "category: dependencies",
-        "color": "5804ea",
+        "color": "9d8403",
         "aliases": [
             "dependencies"
         ],
@@ -31,19 +31,19 @@
     },
     {
         "name": "category: i18n",
-        "color": "5804ea",
+        "color": "9d8403",
         "aliases": [],
         "description": "The issue/PR is related to internationalization."
     },
     {
         "name": "category: performance",
-        "color": "5804ea",
+        "color": "9d8403",
         "aliases": [],
         "description": "The issue/PR is related to performance."
     },
     {
         "name": "category: refactor",
-        "color": "5804ea",
+        "color": "9d8403",
         "aliases": [
             "copy to improve",
             "refactor",
@@ -53,7 +53,7 @@
     },
     {
         "name": "category: won't fix",
-        "color": "5804ea",
+        "color": "9d8403",
         "aliases": [],
         "description": "The issue won’t be fixed."
     },
@@ -327,6 +327,12 @@
         "description": "This is being worked on."
     },
     {
+        "name": "status: needs review",
+        "color": "9d8403",
+        "aliases": [],
+        "description": "PR needs reviewing"
+    },
+    {
         "name": "status: on hold",
         "color": "14252d",
         "aliases": [],
@@ -359,6 +365,12 @@
             "bug:confirmed"
         ],
         "description": "The issue is a confirmed bug."
+    },
+    {
+        "name": "type: community contribution",
+        "color": "0b2338",
+        "aliases": [],
+        "description": "The issue/PR is community contribution."
     },
     {
         "name": "type: documentation",
