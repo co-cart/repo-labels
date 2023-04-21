@@ -1,0 +1,26 @@
+{
+  "name": "co-cart/repo-labels",
+  "version": "0.0.0",
+  "description": "GitHub action to sync a repo's issue labels with the standard CoCart set.",
+  "keywords": [],
+  "author": "Sébastien Dumont",
+  "author_uri": "https://sebastiendumont.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/co-cart/repo-labels.git"
+  },
+  "homepage": "https://github.com/co-cart/repo-labels",
+  "bugs": "https://github.com/co-cart/repo-labels/issues",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6.9.0"
+  },
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "github-label-sync": "^2.0.0"
+  },
+  "devDependencies": {},
+  "main": "./index.js",
+  "scripts": {}
+}
