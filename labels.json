@@ -155,7 +155,7 @@
         "aliases": [
             "WooCommerce"
         ],
-        "description": "Issues related to the core of WooCommerce."
+        "description": "Issues related to the core of WooCommerce that affect CoCart."
     },
     {
         "name": "needs: author feedback",
@@ -232,6 +232,14 @@
             "php:8.1"
         ],
         "description": "Issues related to PHP 8.1 only."
+    },
+    {
+        "name": "PHP: 8.2",
+        "color": "0d1413",
+        "aliases": [
+            "php:8.1"
+        ],
+        "description": "Issues related to PHP 8.2 only."
     },
     {
         "name": "pr: major",
