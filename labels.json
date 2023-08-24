@@ -155,7 +155,7 @@
         "aliases": [
             "WooCommerce"
         ],
-        "description": "Issues related to the core of WooCommerce."
+        "description": "Issues related to the core of WooCommerce that affect CoCart."
     },
     {
         "name": "needs: author feedback",
