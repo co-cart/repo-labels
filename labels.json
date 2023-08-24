@@ -410,7 +410,7 @@
         "aliases": [
             "question"
         ],
-        "description": "The issue is a question about how code works."
+        "description": "The issue is a question about how the product works."
     },
     {
         "name": "type: regression",
