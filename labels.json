@@ -234,6 +234,14 @@
         "description": "Issues related to PHP 8.1 only."
     },
     {
+        "name": "PHP: 8.2",
+        "color": "0d1413",
+        "aliases": [
+            "php:8.2"
+        ],
+        "description": "Issues related to PHP 8.2 only."
+    },
+    {
         "name": "pr: major",
         "color": "990F3D",
         "aliases": [],
